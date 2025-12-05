@@ -10,7 +10,7 @@
 # mulai dari pembuatan class sederhana, class library, hingga implementasi modularisasi dengan form dan koneksi database.
 
 # Persiapan
-# 1. Gunakan text editor (disarankan: VSCode).
+# 1. Gunakan text editor VSCode.
 # 2. Buat folder baru pada webserver dengan nama:
 ```PHP
 lab10_php_oop
@@ -198,3 +198,7 @@ class Database {
    }
 }
 ```
+
+# Pertanyaan dan Tugas
+Implementasikan konsep modularisasi pada kode program pada praktukum sebelumnya
+dengan menggunakan class library untuk form dan database connection.

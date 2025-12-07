@@ -199,6 +199,4 @@ class Database {
 }
 ```
 
-# Pertanyaan dan Tugas
-Implementasikan konsep modularisasi pada kode program pada praktukum sebelumnya
-dengan menggunakan class library untuk form dan database connection.
+# Terima Kasih
